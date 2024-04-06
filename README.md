@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithasutosh&label=Profile%20views&color=0e75b6&style=flat" alt="codewithasutosh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imasutoshsahu" target="blank"><img src="https://img.shields.io/twitter/follow/imasutoshsahu?logo=twitter&style=for-the-badge" alt="imasutoshsahu" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://asutoshsahu.vercel.app/](https://asutoshsahu.vercel.app/)
 
 - 📫 How to reach me **asutoshsahu98@gmail.com**
