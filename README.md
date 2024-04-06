@@ -28,10 +28,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codewithasutosh&icon=5&color=4)](https://visitcount.itsvg.in)
 
-###
+<!--- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CodeWithAsutosh/CodeWithAsutosh/output/snake.svg" alt="Snake animation" />
 
-###
+### --->
